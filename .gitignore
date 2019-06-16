@@ -6,3 +6,4 @@ IDRnote/*.pdf
 IDRnote/*.spl
 IDRnote/*.gz
 IDRnote/*.toc
+IDRnote/Makefile
